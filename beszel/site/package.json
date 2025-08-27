@@ -13,7 +13,7 @@
 	"dependencies": {
 		"@henrygd/queue": "^1.0.7",
 		"@henrygd/semaphore": "^0.0.2",
-		"@lingui/detect-locale": "^5.3.3",
+		"@lingui/detect-locale": "^5.4.0",
 		"@lingui/macro": "^5.3.3",
 		"@lingui/react": "^5.3.3",
 		"@nanostores/react": "^0.7.3",
