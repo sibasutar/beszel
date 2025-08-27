@@ -15,7 +15,7 @@
 		"@henrygd/semaphore": "^0.0.2",
 		"@lingui/detect-locale": "^5.3.3",
 		"@lingui/macro": "^5.3.3",
-		"@lingui/react": "^5.3.3",
+		"@lingui/react": "^5.4.0",
 		"@nanostores/react": "^0.7.3",
 		"@nanostores/router": "^0.11.0",
 		"@radix-ui/react-alert-dialog": "^1.1.14",
