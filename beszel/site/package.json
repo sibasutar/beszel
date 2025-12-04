@@ -45,7 +45,7 @@
 		"recharts": "^2.15.4",
 		"tailwind-merge": "^2.6.0",
 		"tailwindcss-animate": "^1.0.7",
-		"valibot": "^0.42.1"
+		"valibot": "^1.2.0"
 	},
 	"devDependencies": {
 		"@lingui/cli": "^5.3.3",
